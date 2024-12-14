@@ -15,8 +15,8 @@
 
 
 // * Project name - SUHAS- MD 
-// * Author - Suhas Pathsindu
-// * Team - Suhas Bro 
+// * Author - chutta
+// * Team - Chutta
 // * Version - V2
 
 // World best and powerfull whatsapp user bot in Sri lanka
